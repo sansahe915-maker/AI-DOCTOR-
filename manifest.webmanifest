@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "AI DOCTOR",
+  "short_name": "AI DOCTOR",
+  "description": "Health education and cautious guidance to help you find appropriate care.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f1",
+  "theme_color": "#006b3f",
+  "categories": ["health", "medical", "education"],
+  "icons": [
+    {
+      "src": "./icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
